@@ -1,0 +1,220 @@
+*{
+margin: 0;
+}
+.header-contents{
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+    font-size: 22px;
+    font-family: monospace;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+.header-contents:hover{
+   text-decoration: underline;
+   color: rgb(247, 247, 243);
+}
+.logo-image{
+    height: 72px;
+    width: 86px;
+    padding: 21px;
+}
+.banner-image{
+    width: 100%;
+    margin-top: 2px;
+}
+.trail-main{
+    display: flex;
+}
+.redclr{
+    width: 100%;
+    background-color:rgb(247, 154, 131);
+}
+.blueclr{
+    width: 100%;
+    background-color:rgb(247, 154, 131);
+    padding-top: 45px;
+    padding-left: 600px;
+}
+.fa-brands{
+    font-size: 25px;
+    color: #fff;
+    padding-left: 2px;
+}
+.empty{
+    padding-left: 37px;
+    font-size: xx-large;
+}
+.banner-image2{
+    width: 100%;
+    margin-top: -4px;
+}
+.banner-image3{
+    width: 100%;
+    margin-top: -4px;
+}
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.footer1{
+    background-color: #3e3e3e;
+    position: relative;
+    height: 40px;
+    margin-top: -4px;
+    font-size: 12px;
+    text-align: center;
+    font-family:  Arial, sans-serif;
+    padding-top: 10px;
+}
+.footer2{
+    background-color: #3e3e3e;
+    font-family: 'korolev';
+    height: 60px;
+    text-align: center;
+    font-size: x-small;
+    padding-top: -10px;
+    color: #fff;
+    list-style: none;
+    white-space: normal;
+}
+
+.footer1 a{
+    text-decoration: none;
+    color: #fff;
+    margin: 10px;
+}
+.footer1 a:hover{
+    text-decoration: underline;
+    text-decoration-color:#fff ;
+   
+}
+.text-banner{
+    position: absolute;
+    top: 40%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.text-banner{
+    width: 810px;
+    height: 211px;
+    background-color: rgba(10, 91, 43, 0.8);
+    padding-left: 52px;
+    margin-left: 510px;
+    margin-top: 1855px;
+    border-radius: 131px;
+
+}
+.text-st{
+    text-transform: uppercase;
+    margin-top: 28px;
+    margin-right: 46px;
+}
+.text-p{
+    margin-top: 30px;
+    font-weight: 600;
+    letter-spacing: 0px;
+}
+.config-button{
+    margin-top: 32px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 100px;
+    color: #fff;
+    width: 200px;
+    height: 40px;
+    margin-right: 30px;
+    border-color:#fff ;
+    font-size:18px ;
+    font-weight: 600;
+    color: #fff;
+    font-style: var(18px);
+}
+.recipie-text-data{
+    position: absolute;
+    top: 40%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.recipie-text-data{
+    width: 865px;
+    height: 202px; 
+    margin-left: 510px;
+    margin-top: 950px;
+    border-radius: 500px;
+    background-color: rgba(10, 91, 43, 0.8);
+
+}
+.text-st2{
+    text-transform: uppercase;
+    margin-top: 23px;
+   
+}
+.text-p2{
+    margin-top: 30px;
+    font-weight: 600;
+    letter-spacing: 0px;
+}
+.config-button2{
+    margin-top: 32px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 100px;
+    color: #fff;
+    width: 200px;
+    height: 40px;
+    margin-right: 30px;
+    border-color:#fff ;
+    font-size:18px ;
+    font-weight: 600;
+    color: #fff;
+    font-style: var(18px);
+
+}
+.text{
+    position: absolute;
+    top: 440px;
+    color: #fff;
+    width: 100%;
+    
+}
+.text-d{
+    font-weight: 200;
+    margin-left: 200px;
+    font-size: 90px;
+    /* margin-bottom: 35px; */
+    line-height: 72px;
+    font-family: fantasy;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.bb{
+    position: absolute;
+    top: 40%;
+    color: #fff;
+    width: 100%;
+}
+.config-button3{
+    background: transparent;
+    border-radius: 100px;
+    border-color: #fff;
+    height: 49px;
+    width: 139px;
+    margin-top: 160px;
+    margin-left: 200px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 600;
+}
+.footer1-inner{
+    text-decoration: none;
+}
